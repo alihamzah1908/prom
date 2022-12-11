@@ -1,0 +1,78 @@
+<?php
+
+return[
+    'category_language' => 'Category',
+    'new-category_language' => 'New Category',
+    'new-sub-category_language' => 'New Sub Category',
+    'new-item_language' => 'New Item',
+    'category-name_language' => 'Category Name',
+    'desc_language' => 'Description',
+    
+    'new-category2_language' => 'New Category',
+    'category2_language' => 'Category',
+    'category3_language' => 'Category',
+    'desc2_language' => 'Description',
+    'desc3_language' => 'Description',
+    'cancel_language' => 'Cancel',
+    'save_language' => 'Save',
+    'edit-category_language' => 'Edit Category',
+    'category4_language' => 'Category',
+    'category5_language' => 'Category',
+    'desc4_language' => 'Description',
+    'desc5_language' => 'Description',
+    'save2_language' => 'Save',
+    'cancel2_language' => 'Cancel',
+    'new-sub-category2_language' => 'New Sub Category',
+    'category6_language' => 'Category',
+    'sub-category_language' => 'Sub Category',
+    'category7_language' => 'Category',
+    'desc6_language' => 'Description',
+    'desc7_language' => 'Description',
+    'cancel3_language' => 'Cancel',
+    'save3_language' => 'Save',
+    
+    'edit-sub-category_language' => 'Edit Sub Category',
+    'category8_language' => 'Category',
+    'sub-category2_language' => 'Sub Category',
+    'category9_language' => 'Category',
+    'desc8_language' => 'Description',
+    'desc9_language' => 'Description',
+    'save4_language' => 'Save',
+    'cancel4_language' => 'Cancel',
+    
+    'new-item2_language' => 'New Item',
+    'item_name_language' => 'Item Name',
+    'name_language' => 'Name',
+    'category10_language' => 'Category',
+    'sub-category3_language' => 'Sub Category',
+    'desc10_language' => 'Description',
+    'place-your-address_language' => 'Place your Address',
+    'cancel5_language' => 'Cancel',
+    'save5_language' => 'Save',
+    
+    'edit-item_language' => 'Edit Item',
+    'item_name2_language' => 'Item Name',
+    'name2_language' => 'Name',
+    'category10_language' => 'Category',
+    'sub-category4_language' => 'Sub Category',
+    'desc11_language' => 'Description',
+    'place-your-address2_language' => 'Place your Address',
+    'save6_language' => 'Save',
+    'cancel6_language' => 'Cancel',
+    
+    'category11_language' => 'Category',
+    'name-category_language' => 'Name Category',
+    'message_language' => 'Category will permanently be deleted!',
+    'continue_language' => 'Continue?',
+    'cancel7_language' => 'Cancel',
+    'delete_language' => 'Delete',
+    'item_language' => 'Item',
+    'desc12_language' => 'Description',
+    'sub-category5_language' => 'Sub Category',
+    'desc13_language' => 'Description',
+    
+    'select-category_language' => 'Select Category'
+    
+    
+  
+    ];

@@ -1,0 +1,70 @@
+{
+  "elements": [
+    {
+      "type": "input",
+      "text": "TEXT",
+      "icon": "fa-keyboard"
+    },
+    {
+      "type": "number",
+      "text": "NUMBER",
+      "icon": false,
+      "icon_alt": "12"
+    },
+    {
+      "type": "url",
+      "text": "URL",
+      "icon": "fa-globe"
+    },
+    {
+      "type": "email",
+      "text": "EMAIL",
+      "icon": "fa-envelope"
+    },
+    {
+      "type": "password",
+      "text": "PASSWORD",
+      "icon": "fa-lock"
+    },
+    {
+      "type": "datetime-local",
+      "text": "DATETIME",
+      "icon": "fa-calendar"
+    },
+    {
+      "type": "date",
+      "text": "DATE",
+      "icon": "fa-calendar-alt"
+    },
+    {
+      "type": "time",
+      "text": "TIME",
+      "icon": "fa-clock"
+    },
+    {
+      "type": "file",
+      "text": "FILE",
+      "icon": "fa-file-alt"
+    },
+    {
+      "type": "textarea",
+      "text": "TEXTAREA",
+      "icon": "fa-paragraph"
+    },
+    {
+      "type": "select",
+      "text": "SELECT",
+      "icon": "fa-list-alt"
+    },
+    {
+      "type": "checkbox",
+      "text": "CHECKBOX",
+      "icon": "fa-check-square"
+    },
+    {
+      "type": "radio",
+      "text": "RADIO",
+      "icon": "fa-check-circle"
+    }
+  ]
+}

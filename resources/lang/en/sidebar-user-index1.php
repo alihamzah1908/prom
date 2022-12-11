@@ -1,0 +1,45 @@
+<?php
+
+return[
+    'lists_language' => 'Lists',
+    'create_language' => 'Create',
+    'role_language' => 'Role',
+    'id_language' => 'ID',
+    'name_language' => 'Name',
+    'e-mail_language' => 'E-mail',
+    'role2_language' => 'Role',
+    'department_language' => 'Department',
+    'create-date_language' => 'Create Date',
+    'new-user_language' => 'New User',
+    'name2_language' => 'Name',
+    'username_language' => 'Username',
+    'e-mail2_language' => 'E-mail',
+    'e-mail3_language' => 'E-mail',
+    'telephone_language' => 'Telephone',
+    'telephone2_language' => 'Telephone',
+    'mobile-phone_language' => 'Mobile phone',
+    'optional_language' => '(Optional)',
+    'mobile-phone2_language' => 'Mobile phone',
+    'password_language' => 'Password',
+    'password2_language' => 'Password',
+    'password-confirm_language' => 'Password confirm',
+    'password-confirm2_language' => 'Password confirm',
+    'department2_language' => 'Department',
+    'department3_language' => 'Department',
+    'role3_language' => 'Role',
+    'role4_language' => 'Role',
+    'cancel_language' => 'Cancel',
+    'save_language' => 'Save',
+    'user_language' => 'User',
+    'name3_language' => 'Name',
+    'name4_language' => 'Name',
+    'e-mail4_language' => 'E-mail',
+    'e-mail5_language' => 'E-mail',
+    'delete-user_language' => 'User will permanently be deleted!', // or role wiil be delete?
+    'continue_language' => 'Continue?',
+    'cancel2_language' => 'Cancel',
+    'delete_language' => 'Delete',
+    
+    
+    
+    ];

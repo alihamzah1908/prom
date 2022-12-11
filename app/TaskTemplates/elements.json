@@ -1,0 +1,20 @@
+{
+  "elements": [
+    {
+      "type": "input",
+      "text": "TEXT",
+      "icon": "fa-keyboard"
+    },
+    {
+      "type": "number",
+      "text": "NUMBER",
+      "icon": false,
+      "icon_alt": "12"
+    },
+    {
+      "type": "EMPTY_ROW",
+      "text": "EMPTY_ROW",
+      "icon": "fa-circle"
+    }
+  ]
+}
